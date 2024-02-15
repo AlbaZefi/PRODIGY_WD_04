@@ -1,3 +1,3 @@
 # PRODIGY_WD_04
  Personal Portfolio Website
-Build a personal portfolio website that showcases your skills, projects, and accomplishments as a web developer. Design an attractive and visually appealing layout that captures visitors' attention. Include a home page with a captivating headline, professional photo, and summary of your skills. Provide an "About Me" section with a detailed background, education, and professional experience.
+<img width="941" alt="image" src="https://github.com/AlbaZefi/PRODIGY_WD_04/assets/49881296/62b851f9-cca6-4b26-841f-8b1957f8e7ec">
